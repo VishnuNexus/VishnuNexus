@@ -33,4 +33,4 @@ I'm an incoming Electronics and Communication Engineering (ECE) student with a s
 
 ### 📫 Connect With Me
 - LinkedIn: https://www.linkedin.com/in/vishnuvarthan-ece
-- GitHub: nexusVishnu-08
+- GitHub: https://github.com/nexusVishnu-08
