@@ -1,43 +1,44 @@
-# Hello, I'm Vishnuvarthan  
-## ECE Student | GATE 2028 Aspirant
+# 💫 About Me:
+Hello, I'm Vishnuvarthan  
+**ECE Student | GATE 2028 Aspirant**
 
-I'm studying **Electronics and Communication Engineering (ECE)** and aiming for the **GATE 2028** exam.
-
-I'm just at the beginning of my ECE journey, where I’m learning about electronics basics and software. I'm taking time to learn **C programming** and **Python** to build my skills. Alongside my studies, I'm also starting my GATE preparation.
-
----
-
-### 🔧 What I’m Working On
-
-- Learning C programming with a focus on logic and data structures  
-- Getting to know Python, starting with basics and moving to fun projects  
-- Diving into GATE topics like Engineering Maths, Networks, and Digital Circuits  
-- Using GitHub as a place to document and track my learning and projects  
+I'm studying Electronics and Communication Engineering and preparing for GATE 2028.  
+Currently learning C and Python, and exploring core ECE topics.
 
 ---
 
-### 📘 Project Ideas I’m Thinking About
-
-- **C-Programming-Basics**: Creating small programs involving loops and arrays to practice  
-- **Python-Beginners**: Designing simple tools, such as calculators and number games, to learn by doing  
-- **Electronics-Lab**: Conducting simulations and experimenting with beginner-level circuits  
-
----
-
-### 🎯 First-Year Goals
-
-- Establish solid programming fundamentals  
-- Familiarize myself with core ECE topics  
-- Maintain steady GATE preparation  
-- Aim to share at least 2–3 projects or study notes each month  
+### What I'm Learning  
+- C programming (logic and data structures)  
+- Python (basics and small projects)  
+- GATE subjects: Engineering Maths, Networks, Digital Circuits
 
 ---
 
-> *“Don’t compare your chapter 1 to someone else’s chapter 10. Just keep showing up.”*
+### Project Ideas  
+- C programs (loops, arrays)  
+- Python tools (calculators, games)  
+- Electronics simulations
 
 ---
 
-### 📫 Let’s Connect
+### My Goals  
+- Build strong coding skills  
+- Learn ECE fundamentals  
+- Stay consistent with GATE prep  
+- Share 2–3 projects or notes each month
 
-- [LinkedIn] : https://www.linkedin.com/in/vishnuvarthan-ece  
-- [GitHub] : https://github.com/nexusVishnu-08
+> _“Don’t compare your chapter 1 to someone else’s chapter 10.”_
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Vishnuvarthan S) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vishnuec19@gmail.com) 
+
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=VishnuNexus&theme=aura&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=VishnuNexus&theme=aura&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=VishnuNexus&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=VishnuNexus&icon=0&color=13)](https://visitcount.itsvg.in)
